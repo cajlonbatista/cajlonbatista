@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-#### "I wanted to go back in time, to be able to make choices that might make me a little happier today ".
+#### "O ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva. É por isso que se chama presente.".
