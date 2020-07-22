@@ -1,3 +1,3 @@
-## Hi there 👋
+## Where did we come from and where are we going? 👋
 
-#### "O ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva. É por isso que se chama presente.".
+#### "Yesterday is history, tomorrow is a mystery, but today is a gift. That's why it's called present."
