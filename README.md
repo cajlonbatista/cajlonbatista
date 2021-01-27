@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Francisco Cajlon 👋</h2>
  
-<a align="center">![Cajlon's github stats](https://github-readme-stats.vercel.app/api?username=cajlonbatista&show_icons=true&theme=red)</a>
+<a align="center">![Cajlon's github stats](https://github-readme-stats.vercel.app/api?username=cajlonbatista&show_icons=true&theme=vue)</a>
 
 #### Contato
 <a href="https://www.instagram.com/cajlonbatista/">
