@@ -1,7 +1,4 @@
-<h2 align="center">Hi, I'm Francisco Cajlon 👋</h2>
- 
-<a align="center">![Cajlon's github stats](https://github-readme-stats.vercel.app/api?username=cajlonbatista&show_icons=true&theme=vue)</a>
-
+#### Sempre me esqueço então coloquei aqui
 ```
 {
   "compilerOptions": {
@@ -30,14 +27,40 @@
   ]
 }
 ```
-
-#### Contato
-<a href="https://www.instagram.com/cajlonbatista/">
- <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="30"/>
-</a>
-<a href="https://www.facebook.com/franciscocajlon.jhonanthanmourabatista">
- <img src="https://image.flaticon.com/icons/svg/2111/2111398.svg" width="30"/>
-</a>
-<a href="https://www.linkedin.com/in/francisco-cajlon-jhonathan-moura-batista-20b9651aa/" target="_blank">
- <img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30"/>
-</a>
+```
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": ["plugin:react/recommended", "airbnb"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["react", "@typescript-eslint"],
+  "rules": {
+    "import/no-anonymous-default-export": "off",
+    "no-console": "off",
+    "react/react-in-jsx-scope": "off",
+    "import/no-unresolved": "off",
+    "space-before-function-paren": "off",
+    "import/prefer-default-export": "off",
+    "react/prop-types": "off",
+    "react-in-jsx-scope": "off",
+    "import/extensions": [
+        "error",
+        {
+          "ts": "never",
+          "tsx": "never"
+        }
+     ],  
+    "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }]
+  }
+}
+```
